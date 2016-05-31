@@ -1,3 +1,5 @@
+[![PyPI version](https://img.shields.io/pypi/v/urlfit.svg)](https://pypi.python.org/pypi/urlfit)
+
 # urlfit-python
 
 ## Pre-install    
